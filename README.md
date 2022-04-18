@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Sohil
 I am a second-year computer science student.
-I really like problem-solving, I frequently practice questions on Leetcode, HackkerRank, and CodeChef.
+I really like problem-solving, I frequently practice questions on Leetcode, HackkerRank, CodeChef and other platforms.
 
-- 🌱 I’m currently learning TensorFlow 
 - 📫 How to reach me: khandujasohil@gmail.com 
 - 😄 Pronouns: He/Him 
 * You can connect with me on
