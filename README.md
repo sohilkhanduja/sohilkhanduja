@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Sohil
-I am a second-year computer science student.
 I really like problem-solving, I frequently practice questions on Leetcode, HackkerRank, CodeChef and other platforms.
 
 - 📫 How to reach me: khandujasohil@gmail.com 
